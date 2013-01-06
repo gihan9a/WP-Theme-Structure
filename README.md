@@ -1,4 +1,4 @@
-WP_Theme_Structure
+WP Theme Structure
 ==================
 
 Only contains the Wordpress theme file structure with minimal required code. No Styling
